@@ -1,2 +1,0 @@
-# TheTestTask
-For git learning.
